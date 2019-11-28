@@ -1,0 +1,84 @@
+.navbar-light .navbar-nav .nav-link {
+    color:#ff4500;
+}
+.carousel-caption {
+	top:40%;
+}
+.media-body h5 {
+    color: orangered;
+}
+#underline{
+	width:200px;
+	height:2px;
+	background-color:orangered;
+	margin:0 auto;
+}
+#text{
+	font-size: 20px;
+    font-weight: 600;
+}
+#icon{
+    float: left;
+    height: 65px;
+    width: 35px;
+    color: darkgray;
+}
+#item img{
+    -webkit-transition: 0.6 ease;
+    transition: 0.6s ease;
+}
+#item img:hover{
+	-webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+#section{
+	background:#E0DFDF;
+}
+.card-header{
+	padding:10px 10px;
+}
+a:not([href]):not([tabindex]) {
+    color: #007BFF;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -10px;
+	font-weight:bold;
+}
+#fixed{
+	background:url('../img/img_bg_2-dark.jpg') no-repeat center center;
+	background-attachment: fixed;
+	margin-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 200px;
+    padding-top: 200px;
+    background-size: cover;
+}
+#imgText a:hover{
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
